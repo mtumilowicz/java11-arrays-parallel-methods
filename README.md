@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/java11-arrays-parallel-methods.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-arrays-parallel-methods)
+
 # java11-arrays-parallel-methods
 _Reference_: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html
 
