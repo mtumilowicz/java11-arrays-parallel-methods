@@ -40,7 +40,7 @@ _Reference_: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/u
 
 # project description
 We provide examples for methods mentioned above:
-* accumulate and propagate sum across the array
+* accumulate and carry sum across the array
     ```
     int[] binaryArray = {0, 0, 1, 0, 1, 1, 1, 0, 1};
     
